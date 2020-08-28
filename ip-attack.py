@@ -1,15 +1,15 @@
 #!/usr/bin/python
 #
 #
-# 	<=== IP ATTACK ===>
+# 	<=== IP Down ===>
 #
 #  Name 	:  IP Attack
 #  Platform	:  Android Termux
 #  Code		:  Python
 #  Sec.Code	:  8h4i
-#  Coded by	:  Sutariya Parixit
+#  Coded by	:  Kaz Team 
 #  Site 		:  bhai4you.blogspot.com
-#  Github	:  https://github.com/Bhai4You
+#  Github	:  https://github.com/IPDown.git
 #
 #
 #
